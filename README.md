@@ -1,2 +1,2 @@
 # SuperMarketSystem
-This is regarding to super market billing app
+The Supermarket System Java Project is designed to manage product inventory and billing operations efficiently. The system includes user verification, distinguishing between Admin and Normal User roles. Admins have full access, allowing them to add, delete, and edit products. Normal users, on the other hand, are restricted to billing and printing receipts. The system ensures that each user's access is verified, with admins overseeing product management and normal users handling the billing process.
